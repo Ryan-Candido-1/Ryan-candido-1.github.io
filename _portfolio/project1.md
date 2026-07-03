@@ -1,19 +1,23 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Projeto de Extensão em Badminton
+subtitle: Proposta de incentivo ao esporte universitário.
+image: https://place-hold.it/800x600
+alt: Badminton
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Badminton
+  subtitle: Extensão universitária
+  thumbnail: https://place-hold.it/400x300
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Ideia de desenvolvimento de um projeto de extensão voltado à prática e divulgação do badminton no ambiente universitário.
+
+A proposta busca ampliar o acesso ao esporte, incentivar a participação da comunidade acadêmica e criar oportunidades para treinamento, integração entre estudantes e participação em competições regionais.
+
+O projeto representa um objetivo pessoal de contribuir para a expansão do badminton dentro da universidade e fortalecer a presença da modalidade no meio acadêmico.
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Categoria: Extensão Universitária
+- Área: Esporte e Comunidade
+- Status: Em planejamento
