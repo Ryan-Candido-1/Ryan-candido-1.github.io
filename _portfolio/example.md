@@ -1,22 +1,21 @@
 ---
-caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+caption:
+  title: GPRO
+  subtitle: Estratégia e gerenciamento
   thumbnail: https://place-hold.it/400x300
-  
-#what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+
+title: Grand Prix Racing Online (GPRO)
+subtitle: Estratégia, planejamento e gerenciamento de recursos.
+image: https://place-hold.it/400x300
+alt: Interface do jogo GPRO
 
 ---
-Use this area to describe your project. **Markdown** supported.
 
-optional info list (delete if not using):
+Participação no jogo de gerenciamento de equipes de Fórmula 1 GPRO, com foco em estratégia de corrida, administração de recursos, desenvolvimento do carro e planejamento de longo prazo ao longo das temporadas.
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+A experiência envolve análise de dados, tomada de decisões estratégicas e gerenciamento financeiro para manter a competitividade da equipe durante várias temporadas.
 
+{:.list-inline}
+- Categoria: Estratégia e gerenciamento
+- Plataforma: Web
+- Status: Ativo
